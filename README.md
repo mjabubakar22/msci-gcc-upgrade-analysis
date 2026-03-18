@@ -16,5 +16,3 @@ This notebook contains the supporting calculations for the analysis of **MSCI in
 Portions of the Python code were generated with the assistance of OpenAI’s ChatGPT (GPT-5.3).  
 All outputs were reviewed and validated by the author.
 ---
-
-## Repository Structure
